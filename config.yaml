@@ -1,0 +1,9 @@
+baseURL: "https://runningstream.net/"
+languageCode: "en-us"
+title: "RunningStream"
+theme: "grayscale"
+Params:
+  description: "RunningStream is dedicated to investigating the latest network security issues and producing solutions that improve society's security as a whole"
+  author: "Running Stream LLC"
+  #googlesiteverification: ""
+  #msvalidate: ""

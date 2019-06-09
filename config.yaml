@@ -1,7 +1,7 @@
 baseURL: "https://runningstream.net/"
 languageCode: "en-us"
 title: "RunningStream"
-theme: "grayscale"
+theme: "hugograyscale"
 disableKinds:
   - taxonomy
   - taxonomyTerm
@@ -10,3 +10,4 @@ Params:
   author: "Running Stream LLC"
   #googlesiteverification: ""
   #msvalidate: ""
+  googleAnalytics: "UA-141722794-1"

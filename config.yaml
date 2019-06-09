@@ -5,9 +5,9 @@ theme: "hugograyscale"
 disableKinds:
   - taxonomy
   - taxonomyTerm
-Params:
+googleAnalytics: "UA-141722794-1"
+params:
   description: "RunningStream is dedicated to investigating the latest network security issues and producing solutions that improve society's security as a whole"
   author: "Running Stream LLC"
   #googlesiteverification: ""
   #msvalidate: ""
-  googleAnalytics: "UA-141722794-1"
